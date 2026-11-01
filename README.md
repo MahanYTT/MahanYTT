@@ -18,13 +18,8 @@
 
 </div>
 
-- 🛠️ I build Minecraft plugins and Discord bots
-- 🐍 Basic Python knowledge — mainly using it for Discord bots with **Pycord**
-- ☕ Currently learning Java for Minecraft plugin development
-- 🤙 I vibe code C++ sometimes (don't ask me to explain it)
 - 🌐 Owner of **[OrbitalSMP](https://orbitalsmp.net)** — a Minecraft SMP server
-- 📦 You can find some of my stuff on **[Modrinth](https://modrinth.com/user/MahanYTT)**
-- 🚀 Always working on something new
+- 😢 idk what else i love Ai
 
 ---
 
